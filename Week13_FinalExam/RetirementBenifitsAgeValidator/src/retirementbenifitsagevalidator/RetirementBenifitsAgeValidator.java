@@ -10,7 +10,7 @@ package retirementbenifitsagevalidator;
  * meet certain criteria with respect
  * to their age for applying Retirement benifits
  * @author Sivagama Srinivasan
-  date : December 17th
+  date : April 10th 
   */
  
 
@@ -20,7 +20,7 @@ public class RetirementBenifitsAgeValidator
     /**
      * Create a method that validates the person is eligible for applying retirement benifits or not
      * @param personAge, the person's age
-     * @return true if the person is 65 or more years old, false otherwise. 
+     * @ method returns true if the person is 65 or more years old else false. 
      */
     
     
